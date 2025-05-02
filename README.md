@@ -1,7 +1,7 @@
 # Win11-Cleaner
 A simple, fast cleaner for saving storage on windows using python
 
-#How to use
+# How to use
 
 1. Download the v1.zip (or current released version) from the Releases tab.
 2. Extract it to a folder of your choice.

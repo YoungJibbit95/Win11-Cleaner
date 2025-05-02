@@ -185,11 +185,11 @@ def main():
                     total_storage_saved += 10 * 1024 * 1024
                 else:
                     clean_folder(opt["path"], opt["label"])
-        elif choice == "8":
+        elif choice == "13":
             confirm = input("Are you sure you want to clean everything? This could damage your Windows installation in some cases! (y/n): ").lower()
             if confirm == "y":
                 clean_all()
-        elif choice == "9":
+        elif choice == "14":
             print("Exiting...")
             break
         else:
